@@ -1,6 +1,6 @@
 ## <p align="center" style="font-size: 32px; font-weight: bold;">ArtemisShell</p>
 
-ArtemisShell is a powerful, lightweight, and versatile bi-directional reverse shell tool. It enables secure and efficient communication between two devices, allowing both the server and client to send commands and receive output. Inspired by the balance and duality symbolized by the Greek goddess Artemis, this tool aims to provide users with a streamlined solution for establishing remote command execution channels.
+ArtemisShell is a powerful, lightweight, and versatile bi-directional reverse shell tool. It enables secure and efficient communication between two devices, allowing both the server and client to send commands and receive output. this tool aims to provide users with a streamlined solution for establishing remote command execution channels.
 
 <br>
 
