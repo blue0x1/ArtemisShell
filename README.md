@@ -1,6 +1,6 @@
 ## <p align="center" style="font-size: 32px; font-weight: bold;">ArtemisShell</p>
 
-ArtemisShell is a powerful, lightweight, and versatile bi-directional reverse shell tool. It enables secure and efficient communication between two devices, allowing both the server and client to send commands and receive output. this tool aims to provide users with a streamlined solution for establishing remote command execution channels.
+ArtemisShell is a bi-directional reverse shell tool. It enables secure and efficient communication between two devices, allowing both the server and client to send commands and receive output. this tool aims to provide users with a streamlined solution for establishing remote command execution channels.
 
 <br>
 
@@ -16,13 +16,6 @@ ArtemisShell is a powerful, lightweight, and versatile bi-directional reverse sh
 - Lightweight and efficient: Minimal resource usage and fast execution.
 - Simple setup: Easy to configure and get started quickly.
 - Cross-platform compatibility: Works on various operating systems, including Windows, macOS, and Linux.
-
-## Use Cases <br>
-ArtemisShell is suitable for various applications, including: <br>
-
-- Penetration testing: Assess and exploit security vulnerabilities in remote systems. <br>
-- System administration: Manage and troubleshoot remote systems effectively. <br>
-- Development and debugging: Collaborate and debug applications on remote machines.
 
 
 ## Installation
